@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Remembrall 
+tagline:             'A Coding Journal'
+description:         "Jamie Shen is a curious writer of virtual space who can be found typing in a unix shell or catching elusive z's."
+url:                 http://jmeshen.com/blog
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Jamie Shen
+  url:               https://twitter.com/jmeshen
+  email:             hello@jmeshen.com
+
+# Custom vars
+version:             1.0.0
