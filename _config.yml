@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Remembrall 
 tagline:             'A Coding Journal'
 description:         "Jamie Shen is a curious writer of virtual space who can be found typing in a unix shell or catching elusive z's."
-url:                 http://jmeshen.com/blog
+url:                 http://jmeshen.com/blog/
 baseurl:             /blog
 paginate:            5
 
