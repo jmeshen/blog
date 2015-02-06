@@ -9,8 +9,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Remembrall 
-tagline:             'A Coding Journal'
+title:               Pixel Born 
+tagline:             'A Journal of Code and Things'
 description:         "Jamie Shen is a curious writer of virtual space who can be found typing in a unix shell or catching elusive z's."
 url:                 http://blog.jmeshen.com
 baseurl:             /
