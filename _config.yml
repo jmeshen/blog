@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Pixel Born 
-tagline:             'A Journal of Code and Things'
-description:         "Jamie Shen is a curious writer of virtual space who can be found typing in a unix shell or catching elusive z's."
+title:               Mostly Text
+tagline:             'Recounts of Existence and Code'
+description:         "Jamie Shen is a curious writer of virtual space. He writes about technology and the human experience from his perspective."
 url:                 http://blog.jmeshen.com
 baseurl:             /
 paginate:            5
