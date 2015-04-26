@@ -1,0 +1,39 @@
+---
+layout: post
+title: Fullstack Academy: Week 1
+---
+
+Intense. That's how I would describe my first week at Fullstack. Let's break down my experience.
+
+## Monday
+I awoke at 5:30am after having slept a paltry five hours or so. The excitement and anxiety of the upcoming day kept me up the previous night. Despite waking so early and starting my hundred pushup challenge, I miscalculated and missed my bus and nearly missed the 8:12am LIRR to Penn. That was stressful. I was determined to catch my bus for the rest of the week and my commute stress was greatly reduced.
+
+On campus we did icebreakers and reviewed TestFirst JS. Everything was going well. Then we received notice that our assessment would be the next evening. This assessment was designed to test our understanding of Fullstack Foundations, the pre-work we were assigned four weeks prior to starting the program. I was nervous. What happened next was something that I should have expected. So, we were given some practice problems to work on for the rest of the day and of course, despite me trying to set up my MBP's dev environment to match my iMac's prior, I missed something. I forgot to install and make sure ``testem`` was working. Not a big deal, just ``npm install -g testem`` .. nope. Luckily there were junior teaching fellows available to help me diagnose my problem. With aid from three teaching fellows, an instructor, and twenty minutes later, ``testem`` was working. I was frazzled. I was falling behind. 7pm came and no one had left. I knew I had to leave by 7:20pm to catch the 7:49pm train back home. This was awkward. I didn't want to be the first to leave, but I was the first to leave. I got home and looked over some of the practice problems some more. Did what I could and then went to sleep.
+
+## Tuesday
+We reviewed the practice problems for the assessment. I was anxious for most of the day, even though multiple people from the senior class and teaching fellows said not to worry. 2:30pm came and it was time for the assessment. We would have until 6pm. There was both a written and coding component. I realized I made some errors in the written component afterwards, but I felt as though I did well enough. The coding portion was a lot better than I expected. I was able to complete the assessment but with 3 problems which failed to pass all of the tests. Overall I think I did okay, so I stopped worrying.
+
+## Wednesday
+We dove right in to data structures. We were introduced to pair programming and it all started out pretty well. Later in the day, I began to spiral down into a state of crisis. My partner and I hadn't finished the workshop prior to the last workshop, which was a problem because the last workshop involved using code from the previous workshop. I was really lost. I felt as if I was bringing my partner down. He was essentially working by himself. Every other group seemed to be getting it, at least from what I could hear. I was losing confidence and felt like this was it. I'm out. They're going to kick me out. I decided to go home. It was noisy and I couldn't focus. I got home around 9pm and just started writing in my notebook a key concept I wasn't getting. Then something magical happened. I understood. The concept of linked lists finally made sense. With that small victory, I went to sleep.
+
+## Thursday
+I still hadn't completed key parts of the workshops from the previous day, which was searching through hash tables, so when I got to campus I looked it over.. and asked a couple of my classmates to explain it to me. That was super helpful. Slowly I started understanding. By the time we finished the review, I felt better about data structures.
+
+We were also assigned teaching fellows and learning groups that day. The teaching fellow is meant to be someone we should feel comfortable asking for help. Someone that will care about how you are progressing in the program. Essentially they are mentors/counselors. I'm glad that they have this type of support system built-in to the program. I am sure I will have moments of doubt again in the future, so having someone to talk to about it is comforting.
+
+The rest of the day we worked with the DOM. We had to implement the selector features commonly associated with jQuery. I really had a blast with this workshop. It was something familiar to me because of my experience in the front-end, so I really went in with a positive attitude. Not to mention, I worked very well with my assigned partner. We took turns driving and navigating on one machine, which was very helpful. I went home with high spirits.
+
+## Friday
+I was very tired by Friday. It may have something to do with how I slept, but I think it was my body lacking energy. I hadn't been eating very much during the week, due to lack of appetite and time. Lunches would consist of some sort of meal consisting mostly of vegetables. I think I had salad most days, but always ate about half and then the rest towards the end of the day. I only ate breakfast at home on Monday and then proceeded to eat the oatmeal available at school for the rest of the week. I ate some form of dinner maybe twice.
+
+We had a group retrospective where people were free to voice their opinions. No one publicly stated any sort of difficulty, which made me hesitant to voice my opinion. Luckily, I had signed up for office hours on Wednesday to speak with an instructor at 2pm. So I figured I would talk to him about it then. After speaking with him, I felt a lot better. He told me not to compare myself to others. Two of my classmates have masters in Comp Sci and many others have had experience with data structures in the past. It was unrealistic to compare myself to them. He told me that struggling in the beginning is not an indicator of my success in the program. Certain people just have different strengths and some topics come more easily for others. He says by week two, everyone will level out. I was grateful that he took the time to talk to me.
+
+Still though, I was lacking energy. We worked on sorting for the remainder of the day. Sorting, specifically bubble sort and merge sort, was something I was familiar with when I was preparing for technical interviews. I had an idea of how to implement it, but so did my partner, who also had a solution in mind from a previous exercise in Ruby. So, we both had answers in our mind going in to the problem. This was an issue. I tried to defer my opinion to just move forward with his idea, but at the same time, I wasn't sure why it was broken. We spent a lot of time debugging and I was just burned out. I had checked out. I felt really bad for letting my partner down. He assured me it was okay, but I knew it wasn't.
+
+We ended the day with a campus cleanup, mingling & drinking, and hot seat. Hot seat is basically a volunteer doing a 10 minute AMA. Two instructors did the initial hot seats to set the stage for two volunteers from my cohort. Lots of laughs. A good way to end the week.
+
+Oh but there's more. The seniors invited the juniors to go to happy hour afterwards. I was a little reluctant at first, because tired, but I ended up going and I'm glad I did. I got to know my classmates better and also met more of the seniors.
+
+## Overall
+
+I am very excited about the next 12 weeks. The intensity and rate at which we are learning is something I need to adjust to, but I am glad they are pushing us. The importance of health is becoming more and more evident. I need to become more disciplined in my actions and more efficient with my energy. Rather than waste energy on being negative and anxious, it would be best to appropriate that energy to learning challenging concepts. Focus and positivity are imperative. Health is crucial. I will take what I've learned this week and hopefully have a very kick-ass week 2.
