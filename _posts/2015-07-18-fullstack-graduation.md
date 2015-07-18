@@ -16,13 +16,13 @@ Graduation itself was bittersweet. I was really happy that I'd come this far, bu
 My plans for the next month or so will center around the job hunt. A great piece of advice from David of Fullstack was to be time-driven rather than goal-driven. Goals are important of course, but goals can't always be met in a single day. He suggested that he's been most successful when he blocks out hours in the day dedicated to specific tasks. I've decided to take his advice and create a schedule of my own. The first draft looks something like this:
 
 > READ (0930 - 1100)
->> Do some JavaScript reading (I have a ton of books I'd like to read on this topic)
+> + Do some JavaScript reading (I have a ton of books I'd like to read on this topic)
 > JOB STUFF (1130 - 1230)
->> Look for leads, respond to inquiries, set up interviews
+> + Look for leads, respond to inquiries, set up interviews
 > CODING CHALLENGES (1400 - 1630)
->> Work on hard programming questions to prepare for technical interviews and to stay sharp
+> + Work on hard programming questions to prepare for technical interviews and to stay sharp
 > BUILD & LEARN (2000 - 2230)
->> Work on a side project, use new technologies, always be learning
+> + Work on a side project, use new technologies, always be learning
 
 The schedule will likely be amended in some fashion, but the general structure is there. I left out blocks for eating and other things such as blogging, exercising, and interviewing. Writing technical blog posts is something I am planning to do more of regularly, so stay tuned.
 
