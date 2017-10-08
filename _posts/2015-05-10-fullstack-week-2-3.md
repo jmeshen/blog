@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FSA: Week 2 &amp; 3
+title: FSA&#58; Week 2 &amp; 3
 ---
 
 Time has really been hard to keep track of these past few weeks. Monday quickly turns to Friday and the days don't ever quite feel like they end each night. Not a bad thing per se, only an observation.
