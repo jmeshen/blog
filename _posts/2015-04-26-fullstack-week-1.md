@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fullstack Academy: Week 1
+title: Fullstack Academy&#58; Week 1
 ---
 
 Intense. That's how I would describe my first week at Fullstack. Let's break down my experience.

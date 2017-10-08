@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FSA: Graduation
+title: FSA&#58; Graduation
 ---
 
 ### Reflections
